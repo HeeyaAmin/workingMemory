@@ -1,0 +1,33 @@
+authors:
+  -
+    firstname: Kei
+    lastname: Watanabe
+    affiliation: 'Osaka University'
+    id: 'ORCID:0000-0002-3790-1078'
+title: 'Neronal spiking datasets'
+description: 'Cycles of goal silencing and reactivation underlie complex problem-solving in frontal and parietal cortex.'
+keywords:
+  - Neuroscience
+  - Primate
+  - 'Frontoparietal activity'
+license:
+  name: 'Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)'
+  url: 'https://creativecommons.org/licenses/by-nc-nd/4.0/'
+funding:
+  - ""
+  - ""
+references:
+  -
+    id: 'doi:10.xxx/zzzz'
+    reftype: IsSupplementTo
+    citation: Citation1
+  -
+    id: 'arxiv:mmmm.nnnn'
+    reftype: IsSupplementTo
+    citation: Citation2
+  -
+    id: 'pmid:nnnnnnnn'
+    reftype: IsReferencedBy
+    citation: Citation3
+resourcetype: Dataset and codes
+templateversion: 1.2

@@ -1,0 +1,32 @@
+the paper focuses on investigating how the frontal and the prefrontal cortices of primates process information during complex problem solving tasks involving working memory.
+
+Exp setup:
+The researchers used monkeys as subjects and they trained the monkeys on a sequential spatial memory task (i.e. the ability to remmeber sequences/order/locations/positioning)
+the task involved finding and remmebering one or two target location across multiple tasks
+
+Neural recording:
+They recorded neural activity from the PFC and PPC while monkeys performed the tasks
+
+Task Structure:
+the problem consisted of 4 cycles of trials
+in cycle 1, monkeys searched for target locations
+in cycle 2-4 they had to revisit the target location
+
+Key findings:
+observed cycles of goal silencing and reactivation in neural activity
+target info was not maintained through sustained neural firing between trials, instead it was reactivated at the beginning of each new trial
+PFC showed more comprehensive coding, representing past present and future targets
+PPC focused more on immediate events and current targets
+
+Additional experiments:
+they compared neural activity in this task to a standard memory guided saccade task
+this helped relate their fingings to the classical working memory paradigms
+
+Analysis methods:
+stat techniques like ANOVA, cross temporal decoding and PEV analysis
+
+Implications:
+the results challenge classical views of working memory as sustained neural firing
+they suggest a more dynamic process of info maintainence and retrival in complicated/complex tasks
+
+
